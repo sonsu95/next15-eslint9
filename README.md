@@ -110,3 +110,4 @@ Open http://localhost:3000 with your browser to see the result.
 - https://github.com/underground0930/nextjs-eslint-2024
 - https://eslint.org/docs/latest/use/configure/configuration-files#using-predefined-configurations
 - https://nextjs.org/docs/app/building-your-application/configuring/eslint
+- https://github.com/vercel/next.js/blob/canary/examples/with-docker/Dockerfile
